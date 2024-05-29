@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@propylon/eslint-config": "*",
-    "@propylon/typescript-config": "*",
+    "@propylon/config-typescript": "*",
     "eslint": "^8.57.0",
     "typescript": "^5.3.3"
   }
