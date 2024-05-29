@@ -2,7 +2,7 @@
 module.exports = {
   root: true,
   ignorePatterns: [".eslintrc.cjs"],
-  extends: ["@propylon/eslint-config/index.js"],
+  extends: ["@propylon/eslint-config"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
     project: true,
