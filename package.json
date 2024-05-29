@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "eslint": "^8.57.0",
+    "@propylon/config-prettier": "*",
     "@propylon/eslint-config": "*",
     "prettier": "^3.2.5",
     "turbo": "latest"

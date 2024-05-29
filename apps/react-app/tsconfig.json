@@ -1,0 +1,4 @@
+{
+  "extends": "@propylon/typescript-config/vite.json",
+  "include": ["src"]
+}
