@@ -16,11 +16,17 @@ This Turborepo includes the following packages and apps:
 
 ### Apps and Packages
 
-- `docs`: a vanilla [vite](https://vitejs.dev) ts app
-- `web`: another vanilla [vite](https://vitejs.dev) ts app
-- `@propylon/ui`: a stub component & utility library shared by both `web` and `docs` applications
-- `@propylon/eslint-config`: shared `eslint` configurations
-- `@propylon/typescript-config`: `tsconfig.json`s used throughout the monorepo
+- Apps
+
+  - `docs`: a vanilla [vite](https://vitejs.dev) ts app
+  - `web`: another vanilla [vite](https://vitejs.dev) ts app
+
+- Packages
+
+  - `@propylon/ui`: a stub component & utility library shared by both `web` and `docs` applications
+  - `@propylon/prettier-config`: shared `prettier` configurations
+  - `@propylon/typescript-config`: `tsconfig.json`s used throughout the monorepo
+  - `@propylon/eslint-config`: shared `eslint` configurations
 
 Each package and app is 100% [TypeScript](https://www.typescriptlang.org/).
 

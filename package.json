@@ -9,6 +9,8 @@
   "devDependencies": {
     "eslint": "^8.57.0",
     "@propylon/eslint-config": "*",
+    "@propylon/prettier-config": "*",
+    "@propylon/typescript-config": "*",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },

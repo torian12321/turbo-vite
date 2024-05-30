@@ -13,6 +13,7 @@
     "@propylon/ui": "*"
   },
   "devDependencies": {
+    "@propylon/prettier-config": "*",
     "@propylon/eslint-config": "*",
     "@propylon/typescript-config": "*",
     "eslint": "^8.57.0",

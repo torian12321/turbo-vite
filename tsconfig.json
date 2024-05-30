@@ -1,0 +1,3 @@
+{
+  "extends": "@propylon/typescript-config/base.json"
+}
