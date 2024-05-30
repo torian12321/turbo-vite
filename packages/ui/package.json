@@ -7,7 +7,6 @@
     "./header": "./components/header.ts",
     "./setup-counter": "./utils/counter.ts"
   },
-  "license": "MIT",
   "scripts": {
     "lint": "eslint \"**/*.ts\""
   },
