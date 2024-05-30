@@ -3,8 +3,12 @@
   "display": "React Library",
   "extends": "./base.json",
   "compilerOptions": {
+    "types": ["vite/client", "vitest/globals", "vite-plugin-svgr/client"],
     "outDir": "dist",
     "jsx": "react-jsx"
+  },
+  "paths": {
+    "src/*": ["src/*"]
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist"]
