@@ -1,5 +1,5 @@
 {
-  "extends": "@propylon/config-typescript/base.json",
+  "extends": "@propylon/typescript-config/base.json",
   "include": ["."],
   "exclude": ["node_modules"]
 }

@@ -24,8 +24,8 @@ This Turborepo includes the following packages and apps:
 - Packages
 
   - `@propylon/ui`: a stub component & utility library shared by both `web` and `docs` applications
-  - `@propylon/config-prettier`: shared `prettier` configurations
-  - `@propylon/config-typescript`: `tsconfig.json`s used throughout the monorepo
+  - `@propylon/prettier-config`: shared `prettier` configurations
+  - `@propylon/typescript-config`: `tsconfig.json`s used throughout the monorepo
   - `@propylon/eslint-config`: shared `eslint` configurations
 
 Each package and app is 100% [TypeScript](https://www.typescriptlang.org/).

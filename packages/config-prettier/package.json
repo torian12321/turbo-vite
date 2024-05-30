@@ -1,5 +1,5 @@
 {
-  "name": "@propylon/config-prettier",
+  "name": "@propylon/prettier-config",
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
